@@ -12,6 +12,7 @@
   "studioVersion": "19.3.0.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalErrorHandler.xaml",
     "autoDispose": false,
     "excludedLoggedData": [
       "Private:*",
